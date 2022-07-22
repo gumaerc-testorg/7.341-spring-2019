@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains a list of readings by week including links to lecture
+  summaries and online journal articles.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: ee5ff9a9-f375-aae0-ee03-5e5f6a73f09c
 ---
@@ -29,7 +34,7 @@ readings
 
 Overview
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L1summary)
+{{% resource_link bf331a25-b5c6-b71c-88e9-399f06353e46 "See the Lecture Summary" "#L1summary" %}}
 
 
 {{< tdclose >}}
@@ -47,7 +52,7 @@ Jacob F & Monod J. (1961) [Genetic regulatory mechanisms in the synthesis of pro
 
 From the discovery of mRNA to the “central dogma”
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L2summary)
+{{% resource_link bf331a25-b5c6-b71c-88e9-399f06353e46 "See the Lecture Summary" "#L2summary" %}}
 
 
 {{< tdclose >}}
@@ -71,7 +76,7 @@ Brenner S, Jacob F, Meselson M. (1961) [An unstable intermediate carrying inform
 
 From the discovery of splicing to studying entire “transcriptomes”
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L3summary)
+{{% resource_link bf331a25-b5c6-b71c-88e9-399f06353e46 "See the Lecture Summary" "#L3summary" %}}
 
 
 {{< tdclose >}}
@@ -95,7 +100,7 @@ Nagalakshmi U, Wang Z, Waern K, Shou C, Raha D, Gerstein M, Snyder M. (2008) [Th
 
 What is a gene really? From baby RNAs to mature mRNAs
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L4summary)
+{{% resource_link bf331a25-b5c6-b71c-88e9-399f06353e46 "See the Lecture Summary" "#L4summary" %}}
 
 
 {{< tdclose >}}
@@ -119,7 +124,7 @@ de la Mata M, Alonso CR, Kadener S, Fededa JP, Blaustein M, Pelisch F, Cramer P,
 
 How mRNAs are synthesized
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L5summary)
+{{% resource_link bf331a25-b5c6-b71c-88e9-399f06353e46 "See the Lecture Summary" "#L5summary" %}}
 
 
 {{< tdclose >}}
@@ -143,7 +148,7 @@ Duttke SHC, Lacadie SA, Ibrahim MM, Glass CK, Corcoran DL, Benner C, Heinz S, Ka
 
 How you start is how you proceed: promoter control of alternative splicing and processing
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L6summary)
+{{% resource_link bf331a25-b5c6-b71c-88e9-399f06353e46 "See the Lecture Summary" "#L6summary" %}}
 
 
 {{< tdclose >}}
@@ -167,7 +172,7 @@ Chen Y, Pai AA, Herudek J, Lubas M, Meola N, Järvelin AI, Andersson R, Pelechan
 
 miRNAs: small RNAs making a big splash
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L7summary)
+{{% resource_link bf331a25-b5c6-b71c-88e9-399f06353e46 "See the Lecture Summary" "#L7summary" %}}
 
 
 {{< tdclose >}}
@@ -191,7 +196,7 @@ Flamand MN, Gan HH, Mayya VK, Gunsalus KC, Duchaine TF. (2017) [A non-canonical 
 
 Field trip to [Arrakis Therapeutics](http://arrakistx.com/)
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L8summary)
+{{% resource_link bf331a25-b5c6-b71c-88e9-399f06353e46 "See the Lecture Summary" "#L8summary" %}}
 
 
 {{< tdclose >}}
@@ -209,7 +214,7 @@ Warren L, Manos PD, Ahfeldt T, Loh YH, Li H, Lau F, Ebina W, Mandal PK, Smith ZD
 
 siRNAs: How silencing almost any gene became easy and cheap
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L9summary)
+{{% resource_link bf331a25-b5c6-b71c-88e9-399f06353e46 "See the Lecture Summary" "#L9summary" %}}
 
 
 {{< tdclose >}}
@@ -233,7 +238,7 @@ Jenal M, Elkon R, Loayza-Puch F, van Haaften G, Kühn U, Menzies FM, Oude Vrieli
 
 It’s after the stop, yet somehow on top. How the 3’UTR regulates the function of encoded proteins
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L10summary)
+{{% resource_link bf331a25-b5c6-b71c-88e9-399f06353e46 "See the Lecture Summary" "#L10summary" %}}
 
 
 {{< tdclose >}}
@@ -257,7 +262,7 @@ Berkovits BD, Mayr C. (2015) [Alternative 3' UTRs act as scaffolds to regulate m
 
 Raise the shields (and scissors)! piRNA and CRISPR are defensive RNA-weapon systems
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L11summary)
+{{% resource_link bf331a25-b5c6-b71c-88e9-399f06353e46 "See the Lecture Summary" "#L11summary" %}}
 
 
 {{< tdclose >}}
@@ -281,7 +286,7 @@ Jinek M, Chylinski K, Fonfara I, Hauer M, Doudna JA, Charpentier E. (2012) [A pr
 
 Easy to miss, hard to degrade: circular RNA and lncRNAs
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L12summary)
+{{% resource_link bf331a25-b5c6-b71c-88e9-399f06353e46 "See the Lecture Summary" "#L12summary" %}}
 
 
 {{< tdclose >}}
@@ -305,7 +310,7 @@ Chaumeil J, Le Baccon P, Wutz A, Heard E. (2006) [A novel role for Xist RNA in t
 
 Integration of classes, writing assignment, and course discussion
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L13summary)
+{{% resource_link bf331a25-b5c6-b71c-88e9-399f06353e46 "See the Lecture Summary" "#L13summary" %}}
 
 
 {{< tdclose >}}
