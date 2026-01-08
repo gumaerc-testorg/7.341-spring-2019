@@ -117,10 +117,10 @@ The second paper is very recent and addresses details of the miRNA-mRNA interact
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Field trip to {{% resource_link "b9e9ebba-c938-463e-991a-a17dd8d10f57" "Arrakis Therapeutics" %}}
+Field trip to [Arrakis Therapeutics](http://arrakistx.com/)
 {{< tdclose >}}
 {{< tdopen >}}
-{{< anchor "L8summary" >}}{{< /anchor >}}To glimpse into state-of-the art RNA technologies for medical applications, we will visit the biotechnology company {{% resource_link "b9e9ebba-c938-463e-991a-a17dd8d10f57" "Arrakis Therapeutics" %}}. Students will learn how the company is using bioinformatics and chemical biology tools combined with medicinal chemistry to discover RNA-targeting small molecules (rSMs) and develop drugs for treating neurological disorders, cancer, and rare genetic diseases.  
+{{< anchor "L8summary" >}}{{< /anchor >}}To glimpse into state-of-the art RNA technologies for medical applications, we will visit the biotechnology company [Arrakis Therapeutics](http://arrakistx.com/). Students will learn how the company is using bioinformatics and chemical biology tools combined with medicinal chemistry to discover RNA-targeting small molecules (rSMs) and develop drugs for treating neurological disorders, cancer, and rare genetic diseases.  
 {{< tdclose >}}
 
 {{< trclose >}}
