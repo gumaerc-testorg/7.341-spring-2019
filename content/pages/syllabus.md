@@ -31,7 +31,7 @@ We will explore the unexpected diversity of RNA classes and the mechanisms by wh
 
 We will first review and update our knowledge about the historically best characterized RNAs: messenger RNA (mRNA), transfer RNA, and ribosomal RNA, which together employ basepairing to read the genetic code and synthesize proteins. In many organisms messenger RNAs undergo a processing step called splicing, which allows for many alternative variant messages to be made from the same gene and explains how the human body can make over 100,000 proteins from only 20,000 genes.
 
-On our field trip, we will visit {{% resource_link "b9e9ebba-c938-463e-991a-a17dd8d10f57" "Arrakis Therapeutics" %}} and learn about their approach to discovering RNA-targeted small molecules (rSMs) in order to develop drugs for treating diseases. We will then turn to more recently discovered small noncoding RNAs, such as microRNAs, siRNAs, and piRNAs, which regulate the functions of other genes and can change the fate of cell types during development.
+On our field trip, we will visit [Arrakis Therapeutics](http://arrakistx.com/) and learn about their approach to discovering RNA-targeted small molecules (rSMs) in order to develop drugs for treating diseases. We will then turn to more recently discovered small noncoding RNAs, such as microRNAs, siRNAs, and piRNAs, which regulate the functions of other genes and can change the fate of cell types during development.
 
 Finally, we will discuss other RNA species about which we still know very little, such as long non-coding RNAs and circular RNAs. Some long noncoding RNAs associate with chromatin, thereby altering the expression of other genes or bringing together different chromosomes in the nucleus. Circular RNAs are unexpected products of splicing, which have no ends and are therefore very stable compared to other RNAs. While many of them are probably by-products, some exist in surprisingly large quantities. These can alter regulation by microRNAs or RNA-binding proteins, in one example with very specific consequences on behavior. Some circRNA have the capacity to be translated and make small proteins, adding to the already vast protein diversity enabled by alternative splicing. As we discuss the different transcripts and processing events that enable this exciting diversity of RNA functions, we invite you to read landmark papers with us, think critically, and ask new questions, as we marvel at the wonders of RNA.
 
@@ -163,7 +163,7 @@ Written assignment due
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Field trip to {{% resource_link "b9e9ebba-c938-463e-991a-a17dd8d10f57" "Arrakis Therapeutics" %}}
+Field trip to [Arrakis Therapeutics](http://arrakistx.com/)
 {{< tdclose >}}
 {{< tdopen >}}
  
